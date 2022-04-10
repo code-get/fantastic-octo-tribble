@@ -1,0 +1,4 @@
+.terraform
+**/keys/*
+terraform-plan
+*.tfstate*
